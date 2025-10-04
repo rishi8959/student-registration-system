@@ -23,6 +23,6 @@ https://github.com/rishi8959/student-registration-system.git
 
 🚀 Running the App
 1. Open the project directory
-C:\Users\LENOVO\Downloads\INTERNSHALA JOB\JS_Introduction\student-registration-system\student-registration-system
+cd student-registration-system
 
 2. Run app using Live server extension.
