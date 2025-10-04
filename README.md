@@ -12,3 +12,17 @@ The core functionality is powered by JavaScript (script.js). JavaScript handles 
 The project is designed to be simple yet functional, with no dependencies or frameworks, ensuring it runs in any modern web browser without installation. It follows best practices in front-end development with clear file separation, comments for code readability, and a modular structure.
 
 Overall, this Student Registration System is a beginner-friendly, functional CRUD (Create, Read, Update, Delete) application suitable for learning front-end development using HTML, CSS, and JavaScript.
+
+✨ Features
+📝 Register new students
+📋 View a list of registered students
+
+⚙️ Setup Instructions
+1. Clone the repository
+https://github.com/rishi8959/student-registration-system.git
+
+🚀 Running the App
+1. Open the project directory
+cd student-registration-system
+
+2. Run app using Live server extension.
