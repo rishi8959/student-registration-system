@@ -1,4 +1,5 @@
-📄 Student Registration System – Project Description (HTML, CSS, JS)
+📄 Student Registration System 
+– Project Description (HTML, CSS, JS)
 
 The Student Registration System is a responsive web-based application built using HTML, CSS, and JavaScript. It allows users to register, view, edit, and delete student information through a clean and intuitive interface.
 
