@@ -23,6 +23,6 @@ https://github.com/rishi8959/student-registration-system.git
 
 🚀 Running the App
 1. Open the project directory
-cd student-registration-system
+cd Student-Registration-System
 
 2. Run app using Live server extension.
