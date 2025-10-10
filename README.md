@@ -20,9 +20,3 @@ Overall, this Student Registration System is a beginner-friendly, functional CRU
 ⚙️ Setup Instructions
 1. Clone the repository
 https://github.com/rishi8959/student-registration-system.git
-
-🚀 Running the App
-1. Open the project directory
-cd Student-Registration-System
-
-2. Run app using Live server extension.
