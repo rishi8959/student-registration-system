@@ -11,14 +11,14 @@ body {
 }
 
 header {
-    background-color: #022d76; 
+    background-color: #022d76;
     color: rgb(174, 184, 213);
     padding: 20px;
     text-align: center;
 }
 
 main {
-    padding: 20px;    
+    padding: 20px;
 }
 
 form {
