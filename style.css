@@ -11,8 +11,8 @@ body {
 }
 
 header {
-    background-color: #2a9d8f;
-    color: white;
+    background-color: #022d76;
+    color: rgb(174, 184, 213);
     padding: 20px;
     text-align: center;
 }
@@ -37,7 +37,7 @@ input, button {
 }
 
 button {
-    background-color: #264653;
+    background-color: #162441;
     color: white;
     cursor: pointer;
 }
@@ -66,15 +66,15 @@ th, td {
 .actions button {
     margin: 0 5px;
     padding: 5px 10px;
-    background-color: #e76f51;
+    background-color: #d33a2f;
     border: none;
-    color: white;
+    color: rgb(255, 255, 255);
     border-radius: 3px;
     cursor: pointer;
 }
 
 .actions button.edit {
-    background-color: #f4a261;
+    background-color: #2e38ca;
 }
 
 /* @media screen and (max-width: 641px) {
